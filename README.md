@@ -2,6 +2,8 @@
 
 Preços dos combustíveis no Brasil entre os anos de 2004 e 2019 | *Gas Prices in Brazil from 2004 to 2019*
 
+![download](https://user-images.githubusercontent.com/72801602/112895566-ae22e400-90b3-11eb-8196-4b53ff2b61cd.png)
+
 # Entendimento do problema
 
 A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) semanalmente reporta os valores de distribuição e revenda para combustíveis como gás, diesel e outros usados no transporte ao redor do país. Entre estes dados, encontram-se o número de postos avaliados, a região e estado, o preço médio de distribuição e revenda, juntamente aos mínimos e máximos, desvios, margem de revenda, entre outros.
